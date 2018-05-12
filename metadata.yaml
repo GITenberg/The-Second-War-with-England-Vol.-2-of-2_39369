@@ -1,0 +1,30 @@
+_repo: The-Second-War-with-England-Vol.-2-of-2_39369
+_version: 0.1.0
+alternative_title: The 2nd War with England, Vol. 2 of 2
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Headley, Joel Tyler
+    aliases:
+    - Headley, J. T. (Joel Tyler)
+    - Headley, Joel T. (Joel Tyler)
+    birthdate: 1813
+    deathdate: 1897
+    gutenberg_agent_id: '2224'
+    url: http://www.gutenberg.org/2009/agents/2224
+description: ''
+gutenberg_issued: '2012-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812'
+- !lcc 'E300'
+title: The Second War with England, Vol. 2 of 2
+url: http://www.gutenberg.org/ebooks/39369
